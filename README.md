@@ -3,8 +3,7 @@
 Try this recommendation system: https://ulya-book-recommender.streamlit.app/
 
 ## Introduction
-This is my end-to-end data science project involving exploratory data analysis, machine learning modeling and web app deployment. In this project, I tried to develop book recommendation system based on data from the Goodreads application. This dataset was originally scraped from the Goodreads API in September 2017 by Zygmunt Zając and updated by Olivier Simard-Hanley. 
-You can download the data from this [Github repository](https://github.com/malcolmosh/goodbooks-10k-extended).
+Our Personalized Book Recommendation System, built with Python and machine learning, offers tailored book recommendations based on user profiles, reading habits, and preferences. Users can discover books, interact with a vast book catalog, and engage with a reading community. Whether you're a book enthusiast or a beginner, our platform enhances your reading journey by connecting you with books you'll love.
 
 ## Objective
 The main objective of this project is to develop book recommendation systems by several methods and explore the strengths and weaknesses of each method. 
